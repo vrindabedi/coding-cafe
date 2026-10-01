@@ -1,0 +1,61 @@
+    1  python --version
+    2  pyhon3 --version
+    3  python3 --version
+    4  python3.14 --version
+    5  python3.12 --version
+    6  pwd
+    7  ls
+    8  ls -a
+    9  ls -l
+   10  cl
+   11  s
+   12  cls
+   13  clear
+   14  cd~
+   15  cd ~
+   16  pwd
+   17  ls
+   18  ls -a
+   19  pwd
+   20  ls -l
+   21  echo $PATH
+   22  which python3
+   23  which pip
+   24  which ls
+   25  pyton3
+   26  pyon3
+   27  clear
+   28  pyton3
+   29  cd coding-cafe
+   30  python3 -m venv .venv
+   31  sudo apt install python3.12-venv -y
+   32  sudo apt update
+   33  sudo apt install python3-venv -y
+   34  python3 -m venv .venv
+   35  ls
+   36  ls -a
+   37  source .venv/bin/activate
+   38  which python3
+   39  pip list
+   40  pip install requests
+   41  pip list
+   42  deactivate
+   43  which python3
+   44  man ls
+   45  ls -h
+   46  ls -lh
+   47  man man
+   48  cd cod
+   49  clear
+   50  cd cod
+   51  history
+   52  python3
+   53  explorer.exe
+   54  explorer.exe .
+   55  cat notes.md
+   56  cd week02
+   57  cat notes.md
+   58  cp notes.md /mnt/c/Users/dell/Downloads
+   59  clear
+   60  cat lab01-log.txt
+   61  history > lab01-log.txt
