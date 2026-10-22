@@ -11,3 +11,11 @@
 
 4.	(i) It moved from "Untracked files" to "Changes to be committed"
   	(ii) In 3 places model it moved from the Working Directory to the Staging Area
+
+5. It says to files changed and 13 insertions(+)
+
+6. They are short commit hash. Kind of like an ID tag for a specific save point and every single commit gets its own unique random code, which Git uses to come back to that version of project later.
+
+7. It gets a special name since it acts like the homepage of a project, so that anyone visiting the main repository page can see what the project is about.
+
+
